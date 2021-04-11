@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Finished app
 
-- https://nextjs-blog-ochre-omega-97.vercel.app
+- https://nextjs-blog-maecha.vercel.app
 
 ## Getting Started
 
